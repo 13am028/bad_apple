@@ -7,7 +7,7 @@ Bad apple animation using matplotlib with notes recognition
   - animate
 ### Part II - Notes Recognition
   - plot graphs to analyze
-  - find peaks
-  - find frequencies
-  - generate sound
+  - find peaks (scipy.signal.find_peaks)
+  - find frequencies (FFT)
+  - generate sound (Pyaudio)
   - map frequencies to note names
